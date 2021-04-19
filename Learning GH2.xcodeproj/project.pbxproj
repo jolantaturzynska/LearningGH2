@@ -11,6 +11,7 @@
 		A2181D56262E349B00C1FCD6 /* codecrew.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2181D55262E349B00C1FCD6 /* codecrew.swift */; };
 		A2181D58262E349C00C1FCD6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2181D57262E349C00C1FCD6 /* Assets.xcassets */; };
 		A2181D5B262E349C00C1FCD6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2181D5A262E349C00C1FCD6 /* Preview Assets.xcassets */; };
+		A2181D65262E398D00C1FCD6 /* Mymodel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2181D64262E398D00C1FCD6 /* Mymodel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		A2181D57262E349C00C1FCD6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2181D5A262E349C00C1FCD6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A2181D5C262E349D00C1FCD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2181D64262E398D00C1FCD6 /* Mymodel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mymodel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				A2181D57262E349C00C1FCD6 /* Assets.xcassets */,
 				A2181D5C262E349D00C1FCD6 /* Info.plist */,
 				A2181D59262E349C00C1FCD6 /* Preview Content */,
+				A2181D64262E398D00C1FCD6 /* Mymodel.swift */,
 			);
 			path = "Learning GH2";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2181D65262E398D00C1FCD6 /* Mymodel.swift in Sources */,
 				A2181D56262E349B00C1FCD6 /* codecrew.swift in Sources */,
 				A2181D54262E349B00C1FCD6 /* Learning_GH2App.swift in Sources */,
 			);
